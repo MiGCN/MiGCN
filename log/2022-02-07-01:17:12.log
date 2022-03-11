@@ -1,0 +1,9 @@
+2022-02-07 01:31:14,719 - <ipython-input-14-fa2b10e7a5f3>[line:2] - INFO: epoch: 0
+2022-02-07 15:33:25,886 - font_manager.py[line:1357] - WARNING: findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.
+2022-02-07 15:36:47,690 - font_manager.py[line:1357] - WARNING: findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.
+2022-02-07 15:40:04,770 - font_manager.py[line:1357] - WARNING: findfont: Font family ['family', 'weight', 'size'] not found. Falling back to DejaVu Sans.
+2022-02-07 15:40:04,771 - font_manager.py[line:1357] - WARNING: findfont: Font family ['family', 'weight', 'size'] not found. Falling back to DejaVu Sans.
+2022-02-07 16:04:38,322 - font_manager.py[line:1357] - WARNING: findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.
+2022-02-07 16:05:00,082 - font_manager.py[line:1357] - WARNING: findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.
+2022-02-07 16:28:32,250 - font_manager.py[line:1357] - WARNING: findfont: Font family ['family', 'weight', 'size'] not found. Falling back to DejaVu Sans.
+2022-02-07 16:28:32,255 - font_manager.py[line:1357] - WARNING: findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.

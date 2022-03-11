@@ -1,0 +1,5 @@
+2022-02-08 18:24:33,304 - main.py[line:75] - INFO: epoch: 0
+2022-02-08 18:25:18,292 - main.py[line:75] - INFO: epoch: 1
+2022-02-08 18:26:03,881 - main.py[line:75] - INFO: epoch: 2
+2022-02-08 18:26:50,887 - main.py[line:75] - INFO: epoch: 3
+2022-02-08 18:27:37,298 - main.py[line:75] - INFO: epoch: 4

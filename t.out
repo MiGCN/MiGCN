@@ -1,0 +1,9 @@
+Namespace(Ks=[1, 5, 10, 15], T=0.01, alpha=3.0, batch_size=512, beta=0.1, dataset='./OMIM/bigraph/cross1', dropout=0.3, emb_dim=200, gamma=0.1, gpu_id=-1, hid_dim=200, k=0.5, layer_size='[200]', learning_rate=0.005, mi_batch_size=1000, mi_kind='js', neg_num=5, num_epochs=1000, pretrain=None, reg=0.001, seed=2022, show_model_param=False, show_step=1, type=3, weight=None)
+2021-12-29 19:17:37
+loading data...
+[n_users, n_items]=[3209, 12211]
+[n_train, n_test]=[2636, 1318]
+[n_edges]=[285362]
+Using GPU 0,  memory_free: 24265
+tensor([-0.0339, -0.0252,  0.0362, -0.0410,  0.0362], device='cuda:0')
+Loading Model..Number of Model Parameters:  3324802
